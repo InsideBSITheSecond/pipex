@@ -6,9 +6,11 @@
 #    By: llegrand <llegrand@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/11/10 16:55:55 by llegrand          #+#    #+#              #
-#    Updated: 2024/01/07 13:38:19 by llegrand         ###   ########.fr        #
+#    Updated: 2024/01/08 14:58:22 by llegrand         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
+
+#what if we pass /usr/bin/cat as arg ?
 
 # Used by cross-compatibility
 UNAME := $(shell uname)

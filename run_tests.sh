@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -x
+
 CMD1="ls -l"
 CMD2="wc -l"
 
